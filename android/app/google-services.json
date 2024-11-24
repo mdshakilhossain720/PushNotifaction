@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32953453163",
+    "project_id": "pushnotifactions-ce409",
+    "storage_bucket": "pushnotifactions-ce409.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32953453163:android:b45ea861c4c2bcf9f77f2e",
+        "android_client_info": {
+          "package_name": "com.shakil.pushnotifaction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ABpGbhsOtShM2yxVOgHxvrpa4JZo3UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
